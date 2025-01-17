@@ -1,0 +1,25 @@
+/* /* ul{
+    float: right;
+  display: flex;
+  width: 40%;
+  align-items: end;
+  flex-direction: row;
+  justify-content: right;
+    background-color:blue;
+    border: 200px; */
+
+/*  */
+/* } */
+ul li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 20px;
+  background-color: blue;
+}
+
+*/ nav ul {
+  float: right;
+  background-color: blue;
+  border: 2px solid blue;
+  color: violet;
+}
